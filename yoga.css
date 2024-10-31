@@ -5,7 +5,9 @@ body {
        margin-right:auto
        width:80% ;
    }
-   
+   dd{
+    background-color: #3F2860;
+   }
    #wrapper {
        background-color: #F5F5F5;
        min-width: 1000px;
